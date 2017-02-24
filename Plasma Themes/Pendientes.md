@@ -1,41 +1,10 @@
-## Elementos pendientes
+## Elementos pendientes para la 1.1 o superior
 
-### Elementos Indispensables
+- Otras versiones en otros colores
 
-- Akonadi
-- Akregator
-- Amarok
-- Apport
-- Cantata
-- Document
-- Drive
-- Edit
-- Go
-- Input
-- Keyboard
-- Kget
-- Kgpg
-- Kmail
-- Konv_messenge
-- Konversation
-- Korgac
-- Kruler
-- Kteatime
-- Ktorrent
-- Mail
-- Quassel
-- Slc
-- Touchpad
-- Wallet
-- Windows
-- Zoom
+### Iconos pendientes
 
-### Elementos Opcionales
-
-- Quota
 - Distribute
 - Fcitx
 - Ime
-- Kopete
 - Kpackagekit
-- Software
