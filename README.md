@@ -1,5 +1,5 @@
-# The-Lucis-Proyect
-The Lucis Proyect Artwork
+# The-Lucis-Project
+The Lucis Project Artwork
 
 The Lucis Project is an initiative created with the aim of obtaining a different artwork, designed among several collaborators and without deriving elements of other artworks.
 
